@@ -60,5 +60,3 @@ It focuses on **real-world MLOps workflows**, including model training, containe
 - bentofile.yaml
 - requirements.txt
 
----
-tory helps you, please star it and share feedback.
